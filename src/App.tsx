@@ -644,7 +644,7 @@ const ContactPage = () => {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/bharath-freelance/">
       <div className="min-h-screen bg-gray-900 text-white font-[Montserrat]">
         <Navbar />
         <Routes>
